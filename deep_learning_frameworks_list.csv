@@ -1,0 +1,15 @@
+﻿Framework,Git_URL
+Paddle,https://github.com/PaddlePaddle/Paddle
+MXNet,https://github.com/apache/mxnet
+PyTorch,https://github.com/pytorch/pytorch
+Keras,https://github.com/keras-team/keras
+TensorFlow,https://github.com/tensorflow/tensorflow
+Ray,https://github.com/ray-project/ray
+JAX,https://github.com/google/jax
+Aesara,https://github.com/aesara-devs/aesara
+BentoML,https://github.com/bentoml/BentoML
+Chainer,https://github.com/chainer/chainer
+Blocks,https://github.com/mila-iqia/blocks
+Haystack,https://github.com/deepset-ai/haystack
+Horovod,https://github.com/horovod/horovod
+Lasagne,https://github.com/Lasagne/Lasagne
